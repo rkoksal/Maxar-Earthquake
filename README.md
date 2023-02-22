@@ -1,0 +1,1 @@
+# Maxar-Earthquake Rasters Footprint  
